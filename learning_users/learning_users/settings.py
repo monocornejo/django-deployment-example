@@ -27,7 +27,7 @@ SECRET_KEY = 'l!s2scn)9r_)zb_ya4eeaour-pt__w*2^=6@0%6t&=9y6v=e3$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['monocornejo.pythonanywhere.com',]
+ALLOWED_HOSTS = ['monocornejo.pythonanywhere.com']
 
 
 # Application definition
